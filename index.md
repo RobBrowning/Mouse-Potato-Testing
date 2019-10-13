@@ -1,5 +1,5 @@
 
-![mousePotatoLogo](https://github.com/RobBrowning/mousePotatoTester/blob/master/images/Logo.png)
+![mousePotatoLogo](https://github.com/RobBrowning/Mouse-Potato-Testing/blob/master/images/Logo.JPG)
 
 
 ## Welcome to Mouse Potato Testing
